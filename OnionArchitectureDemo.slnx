@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DomainLayer/DomainLayer.csproj" />
+  <Project Path="DomainServiceLayer/DomainServiceLayer.csproj" />
+  <Project Path="InfrastructureLayer/InfrastructureLayer.csproj" />
+  <Project Path="OnionArchitectureMinimalAPI/OnionArchitectureMinimalAPI.csproj" />
+</Solution>
